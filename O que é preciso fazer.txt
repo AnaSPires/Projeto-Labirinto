@@ -1,0 +1,5 @@
+-Criar classe Coordenada
+-Copiar Fila e Pilha
+-Criar as instâncias destas 
+-Verficar a criação da matriz, inserção nesta e leitura do arquivo texto
+-Criar o metodo de encontrar a entrada
